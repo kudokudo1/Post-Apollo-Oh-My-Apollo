@@ -1,0 +1,24 @@
+# Zsh generated completion/cache files
+.zcompdump
+.zcompdump-*
+*.zwc
+
+# Editor / temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Runtime/cache
+*.log
+*.pid
+.cache/
+__pycache__/
+*.pyc
+
+# Secrets / local overrides
+.env
+.env.*
+*.pem
+*.key
