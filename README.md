@@ -1,4 +1,26 @@
-# Post-Apollo Zsh
+✦︎✦︎✦︎ Meta Apollo Logos //
+
+# ⚒ POST-APOLLO // ZSH
+
+![](BUILD/assets/design/chassis/focus-rail.svg)
+
+> **STATE //** active \~\~ **VIEW //** interactive shell configuration
+
+> **Post-Apollo Zsh contains the live shell configuration and prompt layer for the development environment.**
+
+### 🧭 MAP // REPOSITORY
+
+![](BUILD/assets/design/chassis/nav-rail.svg)
+
+// [🧭 ATLAS](./ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](./MODEL/) \~\~ // [🖨 BUILD](./BUILD/) \~\~ // [⚒ DEV](./DEV/) \~\~ // [🖳 OPERATE](./OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](./EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](./ARCHIVE/)
+
+---
+
+### ★⋆˙ CORE // RUNTIME LAYOUT
+
+The live shell files stay in their current root paths. Meta Apollo rooms describe the system without changing how Zsh sources configuration.
+
+---
 
 Live Zsh configuration for the Post-Apollo environment.
 
