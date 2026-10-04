@@ -1,6 +1,6 @@
 ✦︎✦︎✦︎ Meta Apollo Logos //
 
-# ⚒ POST-APOLLO // ZSH
+# ⚒ ZSH // OH MY APOLLO
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
