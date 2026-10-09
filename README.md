@@ -49,6 +49,12 @@ The live shell still sources the home-directory copy at this baseline.
 A later cleanup may move Powerlevel10k configuration fully under `$ZDOTDIR`
 so the repository itself becomes the single live source.
 
+## Upstream provenance
+
+This shell configuration includes substantial inherited/generated material from **Oh My Zsh**, **Powerlevel10k**, and **Zinit**, with Post-Apollo-specific shell behavior layered on top.
+
+See [THIRD_PARTY_NOTICE.md](./THIRD_PARTY_NOTICE.md) for exact sources and licensing boundaries.
+
 ## Generated files
 
 Zsh completion caches such as `.zcompdump*` and compiled `.zwc` files are
